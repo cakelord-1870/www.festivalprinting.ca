@@ -1,0 +1,3264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.festivalprinting.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.festivalprinting.ca/collections/wedding-party.atom"/>
+  <title>Festival Printing</title>
+  <updated>2017-11-08T20:29:59-05:00</updated>
+  <author>
+    <name>Festival Printing</name>
+  </author>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/68561960969</id>
+    <published>2017-11-08T20:29:59-05:00</published>
+    <updated>2017-11-08T20:29:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/team-groom-mustache"/>
+    <title>WP - Team Groom Mustache</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Team-Groom-Mustache_mockup_Flat-Front_White.png?v=1569768001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/team-groom-mustache">(66 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GR - Team Groom Mustache<br>Design Color(s): As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Unisex Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Yellow</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Orange</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Yellow</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Orange</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Yellow</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Orange</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Yellow</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Orange</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Yellow</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Orange</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / White</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Purple</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Green</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Yellow</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Light Grey</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Royal Blue</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Orange</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Red</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Hot Pink</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Light Pink</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68561960969</id>
+      <title>3XL / Maroon</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226637643785</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-bride-squad"/>
+    <title>WP - Bride Squad</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Bride-Squad_mockup_Front_Flat_White.png?v=1569767991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/wp-bride-squad">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: WP - Bride Squad<br>Design Color(s): As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226637643785</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226633187337</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-bride-tribe-1"/>
+    <title>WP - Bride Tribe 1</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Bride-Tribe_mockup_Front_Flat_White.png?v=1569767992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/wp-bride-tribe-1">(50 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: WP - Bride Tribe 1<br>Design Color(s): Gold (Matt)<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226633187337</id>
+      <title>2XL / Black</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226632859657</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-bride-tribe-2"/>
+    <title>WP - Bride Tribe 2</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Bride-Tribe-2_mockup_Front_Flat_CharityPink.png?v=1569767993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/wp-bride-tribe-2">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Name: WP - Bride Tribe 2<br>Design Color(s): As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</p>
+<p><br>Select a design from our marketplace or design your own!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226632859657</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226629550089</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-maid-of-honor-1"/>
+    <title>WP - Maid of honor 1</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Maid-of-honor-1_mockup_Front_Flat_White.png?v=1569767995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Name: WP - Maid of honor 1<br>Design Color(s): As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</p>
+<p>Select a design from our marketplace or design your own!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226629550089</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226626502665</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-team-bride-2"/>
+    <title>WP - Team Bride 2</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Team-Bride-2_mockup_Front_Flat_Black.png?v=1569767996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/wp-team-bride-2">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: WP - Team Bride 2<br>Design Color(s): As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Navy</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Navy</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Navy</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Navy</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Black</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Navy</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Dark Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226626502665</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226625847305</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-team-bride-varsity"/>
+    <title>WP - Team Bride Varsity</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Team-Bride-Varsity_mockup_Back_Flat_White.png?v=1569767998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/wp-team-bride-varsity">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: WP - Team Bride Varsity<br>Design Color(s): As shown, Backprint<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625847305</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/226625454089</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/wp-team-bride-wild"/>
+    <title>WP - Team Bride Wild</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/WP---Team-Bride-Wild_mockup_Front_Flat_White.png?v=1569767999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/wp-team-bride-wild">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: WP - Team Bride Wild<br>Design Color(s): As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/226625454089</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/68560781321</id>
+    <published>2017-11-08T20:25:34-05:00</published>
+    <updated>2017-11-08T20:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/team-bride-crown"/>
+    <title>WP - Team Bride Crown</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Team-Bride-Crown_mockup_Flat-Front_White.png?v=1569767997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/team-bride-crown">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: WP - Team Bride Crown<br>Design Color(s): As shown, Crown: Gold (Matt)<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / White</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Purple</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Green</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Royal Blue</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Hot Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Light Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>S / Maroon</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / White</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Purple</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Green</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Royal Blue</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Hot Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Light Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>M / Maroon</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / White</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Purple</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Green</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Royal Blue</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Hot Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Light Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>L / Maroon</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Purple</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Green</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Royal Blue</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Hot Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Light Pink</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>XL / Maroon</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Purple</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Green</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Royal Blue</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Red</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Hot Pink</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Light Pink</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/68560781321</id>
+      <title>2XL / Maroon</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

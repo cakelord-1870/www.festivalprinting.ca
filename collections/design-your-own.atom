@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.festivalprinting.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.festivalprinting.ca/collections/design-your-own.atom"/>
+  <title>Festival Printing</title>
+  <updated>2020-03-11T20:03:17-04:00</updated>
+  <author>
+    <name>Festival Printing</name>
+  </author>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4541717086290</id>
+    <published>2020-03-11T20:03:17-04:00</published>
+    <updated>2020-03-11T20:03:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-70"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1583971391.9301.jpg?v=1584066118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00 - 19.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-70">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4541717086290</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4541717086290</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4541717086290</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4541717086290</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4541717086290</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4541717086290</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4535144841298</id>
+    <published>2020-03-06T15:04:31-05:00</published>
+    <updated>2020-03-06T15:04:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-69"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1583525066.3914.jpg?v=1584066118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00 - 20.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-69">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4535144841298</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4535144841298</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4535144841298</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4535144841298</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4535144841298</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4535144841298</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4532419231826</id>
+    <published>2020-03-05T12:48:44-05:00</published>
+    <updated>2020-03-05T12:48:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-68"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1583430519.9198.jpg?v=1583461312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 28.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-68">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4532419231826</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4532419231826</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4532419231826</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4532419231826</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4532419231826</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4532419231826</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4530697502802</id>
+    <published>2020-03-04T19:27:26-05:00</published>
+    <updated>2020-03-04T19:27:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-unisex-hooded-sweatshirt-7"/>
+    <title>Classic Premium Custom Hooded Sweatshirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1583368041.5705.jpg?v=1583461311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00 - 37.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-unisex-hooded-sweatshirt-7">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555"><div class="QSMZ_template_555">Starting price includes text on one side! <div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Features:</div>
+</div></div><div class="QSMZ_template_555" id="QSMZ_NObutton_40">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Design your own here or select a design from our marketplace!<br><br>Style:Classic Premium Unisex Custom Hooded Sweatshirt <span>(Fitted/ Slim Fit)</span><br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Request a quote for orders of 15 or more to get a discounted price!</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ready to ship in: 5 business days or less*.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">* Excludes art preparation time, applies only to orders of 72 items or fewer.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4530697502802</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4530697502802</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4530697502802</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4530697502802</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4530697502802</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4530697502802</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4521807511634</id>
+    <published>2020-02-26T12:29:20-05:00</published>
+    <updated>2020-02-26T12:29:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-unisex-hooded-sweatshirt-6"/>
+    <title>Classic Premium Custom Hooded Sweatshirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1582738155.7131.jpg?v=1582856530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.50 - 39.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-unisex-hooded-sweatshirt-6">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555"><div class="QSMZ_template_555">Starting price includes text on one side! <div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Features:</div>
+</div></div><div class="QSMZ_template_555" id="QSMZ_NObutton_40">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Design your own here or select a design from our marketplace!<br><br>Style:Classic Premium Unisex Custom Hooded Sweatshirt <span>(Fitted/ Slim Fit)</span><br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Request a quote for orders of 15 or more to get a discounted price!</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ready to ship in: 5 business days or less*.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">* Excludes art preparation time, applies only to orders of 72 items or fewer.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4521807511634</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4521807511634</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4521807511634</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4521807511634</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4521807511634</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4521807511634</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4519547764818</id>
+    <published>2020-02-24T12:06:24-05:00</published>
+    <updated>2020-02-24T12:06:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-long-sleeve-t-shirt-1"/>
+    <title>Classic Premium Custom Long Sleeve T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1582563979.3667.jpg?v=1582856531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00 - 27.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-long-sleeve-t-shirt-1">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_42">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom Long Sleeve T-Shirt <span>(Fitted/ Slim Fit)</span>
+</div><div class="QSMZ_template_555">
+<br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Request a quote for 15 or more to get a discounted price!</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ready to ship in: 5 business days or less*.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">* Excludes art preparation time, applies only to orders of 72 items or fewer.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4519547764818</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4519547764818</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4519547764818</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4519547764818</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4519547764818</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4519547764818</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4499961675858</id>
+    <published>2020-02-01T22:35:49-05:00</published>
+    <updated>2020-02-01T22:35:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-67"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1580614544.6315.jpg?v=1581042120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00 - 23.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-67">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4499961675858</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4499961675858</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4499961675858</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4499961675858</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4499961675858</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4499961675858</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">23.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4497398202450</id>
+    <published>2020-01-30T08:08:47-05:00</published>
+    <updated>2020-01-30T08:08:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-ladies-t-shirt-8"/>
+    <title>Classic Premium Ladies Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1580389722.6058.jpg?v=1580437321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00 - 25.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-ladies-t-shirt-8">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555" id="QSMZ_NObutton_39">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Starting price includes text on one side!</span></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" id="QSMZ_NObutton_20769" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Design your own custom Ladies T-Shirt by uploading images, text and available cliparts using our easy-to-use designing tool.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Features:</div></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" id="QSMZ_NObutton_75" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ultra soft hand, side-seamed, tightly knit, superior printability.<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Style: Classic Premium Ladies Custom T-Shirt <span>(Fitted/ Slim Fit)</span><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4497398202450</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4497398202450</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4497398202450</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4497398202450</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4497398202450</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4497398202450</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4493044121682</id>
+    <published>2020-01-26T22:15:45-05:00</published>
+    <updated>2020-01-26T22:15:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-66"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1580094941.0215.jpg?v=1580437320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 28.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-66">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4493044121682</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4493044121682</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4493044121682</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4493044121682</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4493044121682</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4493044121682</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4492329091154</id>
+    <published>2020-01-25T21:14:59-05:00</published>
+    <updated>2020-01-25T21:14:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-unisex-crewneck-sweatshirt-3"/>
+    <title>Classic Premium Custom Crewneck Sweatshirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1580004893.9681.jpg?v=1580437319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.50 - 32.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-unisex-crewneck-sweatshirt-3">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">Starting price includes text on one side!</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555" id="QSMZ_NObutton_44">Promotional crewneck sweatshirts lend a touch of class to your logo! Hand out these relaxed custom crewneck sweatshirts to staff, customers and prospects.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><style id="mceDefaultStyles" type="text/css"><!--.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}body {min-height: 150px}-->.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}body {min-height: 150px}-->.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}body {min-height: 150px}-->.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}--></style><style></style><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Design your own here or select a design from our marketplace!<br><br>Style:Classic Premium Unisex Custom Crewneck Sweatshirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Ready to ship in: 5 business days or less*.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">* Excludes art preparation time, applies only to orders of 72 items or fewer.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4492329091154</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4492329091154</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4492329091154</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4492329091154</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4492329091154</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4492329091154</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4489879814226</id>
+    <published>2020-01-23T12:13:09-05:00</published>
+    <updated>2020-01-23T12:13:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-ladies-t-shirt-7"/>
+    <title>Classic Premium Ladies Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1579799585.6066.jpg?v=1579874380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50 - 21.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-ladies-t-shirt-7">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555" id="QSMZ_NObutton_39">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Starting price includes text on one side!</span></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" id="QSMZ_NObutton_20769" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Design your own custom Ladies T-Shirt by uploading images, text and available cliparts using our easy-to-use designing tool.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Features:</div></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" id="QSMZ_NObutton_75" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ultra soft hand, side-seamed, tightly knit, superior printability.<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Style: Classic Premium Ladies Custom T-Shirt <span>(Fitted/ Slim Fit)</span><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879814226</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879814226</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879814226</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879814226</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879814226</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879814226</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4489879060562</id>
+    <published>2020-01-23T12:11:49-05:00</published>
+    <updated>2020-01-23T12:11:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-ladies-t-shirt-6"/>
+    <title>Classic Premium Ladies Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1579799504.2668.jpg?v=1579874379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50 - 21.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-ladies-t-shirt-6">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555" id="QSMZ_NObutton_39">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Starting price includes text on one side!</span></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" id="QSMZ_NObutton_20769" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Design your own custom Ladies T-Shirt by uploading images, text and available cliparts using our easy-to-use designing tool.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Features:</div></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" id="QSMZ_NObutton_75" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ultra soft hand, side-seamed, tightly knit, superior printability.<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Style: Classic Premium Ladies Custom T-Shirt <span>(Fitted/ Slim Fit)</span><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879060562</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879060562</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879060562</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879060562</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879060562</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4489879060562</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4481156317266</id>
+    <published>2020-01-15T12:14:43-05:00</published>
+    <updated>2020-01-15T12:14:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-unisex-crewneck-sweatshirt-2"/>
+    <title>Classic Premium Custom Crewneck Sweatshirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1579108478.5028.jpg?v=1579874377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00 - 28.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-unisex-crewneck-sweatshirt-2">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">Starting price includes text on one side!</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555" id="QSMZ_NObutton_44">Promotional crewneck sweatshirts lend a touch of class to your logo! Hand out these relaxed custom crewneck sweatshirts to staff, customers and prospects.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><style id="mceDefaultStyles" type="text/css"><!--.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}body {min-height: 150px}-->.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}body {min-height: 150px}-->.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}body {min-height: 150px}-->.mce-content-body div.mce-resizehandle {position: absolute;border: 1px solid black;box-sizing: box-sizing;background: #FFF;width: 7px;height: 7px;z-index: 10000}.mce-content-body .mce-resizehandle:hover {background: #000}.mce-content-body img[data-mce-selected],.mce-content-body hr[data-mce-selected] {outline: 1px solid black;resize: none}.mce-content-body .mce-clonedresizable {position: absolute;outline: 1px dashed black;opacity: .5;filter: alpha(opacity=50);z-index: 10000}.mce-content-body .mce-resize-helper {background: #555;background: rgba(0,0,0,0.75);border-radius: 3px;border: 1px;color: white;display: none;font-family: sans-serif;font-size: 12px;white-space: nowrap;line-height: 14px;margin: 5px 10px;padding: 5px;position: absolute;z-index: 10001}.mce-visual-caret {position: absolute;background-color: black;background-color: currentcolor;}.mce-visual-caret-hidden {display: none;}*[data-mce-caret] {position: absolute;left: -1000px;right: auto;top: 0;margin: 0;padding: 0;}.mce-content-body .mce-offscreen-selection {position: absolute;left: -9999999999px;max-width: 1000000px;}.mce-content-body *[contentEditable=false] {cursor: default;}.mce-content-body *[contentEditable=true] {cursor: text;}--></style><style></style><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Design your own here or select a design from our marketplace!<br><br>Style:Classic Premium Unisex Custom Crewneck Sweatshirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Ready to ship in: 5 business days or less*.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">* Excludes art preparation time, applies only to orders of 72 items or fewer.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481156317266</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481156317266</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481156317266</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481156317266</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481156317266</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481156317266</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4481155399762</id>
+    <published>2020-01-15T12:12:44-05:00</published>
+    <updated>2020-01-15T12:12:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-unisex-hooded-sweatshirt-5"/>
+    <title>Classic Premium Custom Hooded Sweatshirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1579108359.7579.jpg?v=1579874378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.50 - 39.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-unisex-hooded-sweatshirt-5">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555"><div class="QSMZ_template_555">Starting price includes text on one side! <div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Features:</div>
+</div></div><div class="QSMZ_template_555" id="QSMZ_NObutton_40">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Design your own here or select a design from our marketplace!<br><br>Style:Classic Premium Unisex Custom Hooded Sweatshirt <span>(Fitted/ Slim Fit)</span><br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">Request a quote for orders of 15 or more to get a discounted price!</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ready to ship in: 5 business days or less*.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">* Excludes art preparation time, applies only to orders of 72 items or fewer.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481155399762</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481155399762</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481155399762</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481155399762</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481155399762</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4481155399762</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4475276623954</id>
+    <published>2020-01-10T22:47:15-05:00</published>
+    <updated>2020-01-10T22:47:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-baby-onesie-8"/>
+    <title>Classic Premium Custom Baby Onesie</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1578714431.9117.jpg?v=1579874376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Starting price includes text on one side!</span></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555" id="QSMZ_NObutton_20769">Design your own custom Baby Onesie by uploading images, text and available cliparts using our easy-to-use designing tool.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Features:</div></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" id="QSMZ_NObutton_20769" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ultra soft hand, side-seamed, tightly knit, superior printability.<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Style: Classic Premium Custom Baby Onesie<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4475276623954</id>
+      <title>0-3 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4475276623954</id>
+      <title>3-6 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4475276623954</id>
+      <title>6-12 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4475276623954</id>
+      <title>12-18 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4475276623954</id>
+      <title>18-24 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4437453439058</id>
+    <published>2019-12-16T13:52:07-05:00</published>
+    <updated>2019-12-16T13:52:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-65"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1576522322.5982.jpg?v=1576808495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50 - 21.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-65">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437453439058</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437453439058</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437453439058</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437453439058</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437453439058</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437453439058</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4437451243602</id>
+    <published>2019-12-16T13:50:30-05:00</published>
+    <updated>2019-12-16T13:50:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-64"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1576522225.9667.jpg?v=1576808494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50 - 21.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-64">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437451243602</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437451243602</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437451243602</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437451243602</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437451243602</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4437451243602</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4433075077202</id>
+    <published>2019-12-13T15:30:59-05:00</published>
+    <updated>2019-12-13T15:30:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-63"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1576269053.8573.jpg?v=1576808493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50 - 21.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-63">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4433075077202</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4433075077202</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4433075077202</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4433075077202</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4433075077202</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4433075077202</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4424954740818</id>
+    <published>2019-12-09T19:27:25-05:00</published>
+    <updated>2019-12-09T19:27:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-baby-onesie-7"/>
+    <title>Classic Premium Custom Baby Onesie</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1575937642.7992.jpg?v=1576203700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Starting price includes text on one side!</span></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555" id="QSMZ_NObutton_20769">Design your own custom Baby Onesie by uploading images, text and available cliparts using our easy-to-use designing tool.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Features:</div></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" id="QSMZ_NObutton_20769" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ultra soft hand, side-seamed, tightly knit, superior printability.<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Style: Classic Premium Custom Baby Onesie<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424954740818</id>
+      <title>0-3 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424954740818</id>
+      <title>3-6 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424954740818</id>
+      <title>6-12 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424954740818</id>
+      <title>12-18 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424954740818</id>
+      <title>18-24 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4424949923922</id>
+    <published>2019-12-09T19:24:13-05:00</published>
+    <updated>2019-12-09T19:24:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-baby-onesie-6"/>
+    <title>Classic Premium Custom Baby Onesie</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1575937451.0202.jpg?v=1576203699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Starting price includes text on one side!</span></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555" id="QSMZ_NObutton_20769">Design your own custom Baby Onesie by uploading images, text and available cliparts using our easy-to-use designing tool.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"><div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Features:</div></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" id="QSMZ_NObutton_20769" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Ultra soft hand, side-seamed, tightly knit, superior printability.<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Style: Classic Premium Custom Baby Onesie<br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><br style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;"></div>
+<span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span><div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555" style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px;">
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"></div>
+<div class="QSMZ_template_555" style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424949923922</id>
+      <title>0-3 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424949923922</id>
+      <title>3-6 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424949923922</id>
+      <title>6-12 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424949923922</id>
+      <title>12-18 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4424949923922</id>
+      <title>18-24 MONTHS / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4407131930706</id>
+    <published>2019-12-02T17:52:01-05:00</published>
+    <updated>2019-12-02T17:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-62"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1575327115.9869.jpg?v=1576203705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50 - 21.00
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-62">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407131930706</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407131930706</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407131930706</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407131930706</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407131930706</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407131930706</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4407122460754</id>
+    <published>2019-12-02T17:48:06-05:00</published>
+    <updated>2019-12-02T17:48:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-61"/>
+    <title>Classic Premium Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1575326881.5341.jpg?v=1576203704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00 - 20.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-61">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom tee</s:tag>
+    <s:tag>hideme</s:tag>
+    <s:tag>tee</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407122460754</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407122460754</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407122460754</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407122460754</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407122460754</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4407122460754</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1515612405842</id>
+    <published>2019-12-01T11:05:11-05:00</published>
+    <updated>2019-12-01T11:05:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/copy-of-classic-premium-youth-custom-t-shirt"/>
+    <title>GILDAN® Youth Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Youth_T-Shirt_G_c785ce03-8f13-426f-b6a4-b51df4b331ae.JPG?v=1569767894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Youth Sizes: S-XL  </div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Style: GILDAN® Unisex Youth Custom T-Shirt </div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"></span></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1515612405842</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1515612405842</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1515612405842</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1515612405842</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4386933899346</id>
+    <published>2019-11-23T11:04:32-05:00</published>
+    <updated>2019-11-23T11:04:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-60"/>
+    <title>Classic Premium Unisex Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1574525067.4202.jpg?v=1574994051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00 - 19.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-60">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4386933899346</id>
+      <title>S / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4386933899346</id>
+      <title>M / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4386933899346</id>
+      <title>L / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4386933899346</id>
+      <title>XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4386933899346</id>
+      <title>2XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4386933899346</id>
+      <title>3XL / &lt;DEFAULT&gt;</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/4384679854162</id>
+    <published>2019-11-22T06:37:58-05:00</published>
+    <updated>2019-11-22T06:37:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-59"/>
+    <title>Classic Premium Unisex Custom T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/7712_CAPTFRON_1574422673.7493.jpg?v=1574994051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00 - 23.50
+            <a href="https://www.festivalprinting.ca/products/custom-premium-mens-unisex-t-shirt-59">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Starting price includes text on one side!</div>
+<div class="QSMZ_template_555"></div>
+</div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555">Features:</div>
+</div><div class="QSMZ_template_555" id="QSMZ_NObutton_75">Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Classic Premium Unisex Custom T-Shirt (Fitted/ Slim Fit)<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane. Soft-Washed.</div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555"></div><div class="QSMZ_template_555">
+<div class="QSMZ_template_555">Request a quote for orders of 15 or more &amp; get discounted prices!</div>
+<div class="QSMZ_template_555"></div>
+<div class="QSMZ_template_555"><span style="display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Design your own here or select a design from our marketplace!</span></div>
+<div class="QSMZ_template_555"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hideme</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4384679854162</id>
+      <title>S / Displayed</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4384679854162</id>
+      <title>M / Displayed</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4384679854162</id>
+      <title>L / Displayed</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4384679854162</id>
+      <title>XL / Displayed</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4384679854162</id>
+      <title>2XL / Displayed</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/4384679854162</id>
+      <title>3XL / Displayed</title>
+      <s:price currency="CAD">23.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

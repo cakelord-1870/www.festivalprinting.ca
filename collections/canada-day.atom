@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.festivalprinting.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.festivalprinting.ca/collections/canada-day.atom"/>
+  <title>Festival Printing</title>
+  <updated>2018-01-20T12:39:16-05:00</updated>
+  <author>
+    <name>Festival Printing</name>
+  </author>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/157254975497</id>
+    <published>2018-01-20T12:39:16-05:00</published>
+    <updated>2018-01-20T12:39:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/cd-maple-leaf"/>
+    <title>Maple Leaf T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Maple-Leaf_mockup_Flat-Front_White.png?v=1574994058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 19.49
+            <a href="https://www.festivalprinting.ca/products/cd-maple-leaf">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: CD - Maple Leaf<br>Design Color: As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Unisex Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadian</s:tag>
+    <s:tag>July 1</s:tag>
+    <s:tag>maple leaf</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>2XL / Black</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>3XL / White</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>3XL / Black</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>4XL / White</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157254975497</id>
+      <title>4XL / Black</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/157253861385</id>
+    <published>2018-01-20T12:35:01-05:00</published>
+    <updated>2018-01-20T12:35:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/cd-canadians-loves-running"/>
+    <title>Canadians Love Running Ladies T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/03-this-canadian-loves-running-copy_mockup_Flat-Front_Black_1.png?v=1574994044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 17.49
+            <a href="https://www.festivalprinting.ca/products/cd-canadians-loves-running">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: CD - WN - Canadians Love Running<br>Design Color: As shown<br><br>Features: <br>Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Select a design from our marketplace or design your own!<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadian</s:tag>
+    <s:tag>July 1</s:tag>
+    <s:tag>maple leaf</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>S / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>S / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>S / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>M / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>M / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>M / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>L / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>L / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>L / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>XL / Dark Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>2XL / Black</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>2XL / White</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>2XL / Dark Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/157253861385</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

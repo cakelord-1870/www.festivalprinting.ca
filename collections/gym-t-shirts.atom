@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.festivalprinting.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.festivalprinting.ca/collections/gym-t-shirts.atom"/>
+  <title>Festival Printing</title>
+  <updated>2018-07-15T12:22:07-04:00</updated>
+  <author>
+    <name>Festival Printing</name>
+  </author>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438717771858</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-sweating-beauty-blk"/>
+    <title>GYM - Sweating Beauty - Blk</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Sweating-Beauty-Blk_mockup_Front_Flat_Light-Pink.png?v=1569767914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-sweating-beauty-blk">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - Strong is the New Pretty - Wh<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Ladies (Fitted) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438717771858</id>
+      <title>Unisex (Classic) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438711873618</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-sweating-beauty"/>
+    <title>GYM - Sweating Beauty - Wh</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Sweating-Beauty-Wh_mockup_Front_Flat_Navy.png?v=1569767916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-sweating-beauty">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - Sweating Beauty - Wh<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Red / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Navy / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Red / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Navy / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Red / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Navy / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Red / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Navy / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Red / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Ladies (Fitted) / Navy / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Red / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Navy / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Red / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Navy / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Red / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Navy / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Red / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Navy / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Red / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438711873618</id>
+      <title>Unisex (Classic) / Navy / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438701650002</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-strong-is-the-new-pretty-wh"/>
+    <title>GYM - Strong is the New Pretty - Wh</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Strong-is-the-new-pretty-WH_mockup_Front_Flat_Azalea.png?v=1569767912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-strong-is-the-new-pretty-wh">(50 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - Strong is the New Pretty - Wh<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Purple / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Forest Green / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Red / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Purple / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Forest Green / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Red / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Purple / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Forest Green / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Red / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Purple / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Forest Green / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Red / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Purple / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Forest Green / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Ladies (Fitted) / Red / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Purple / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Forest Green / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Red / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Purple / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Forest Green / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Red / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Purple / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Forest Green / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Red / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Purple / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Forest Green / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Red / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Purple / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Forest Green / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438701650002</id>
+      <title>Unisex (Classic) / Red / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438695489618</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-strong-is-the-new-pretty-pink"/>
+    <title>GYM - Strong is the New Pretty -  Pink</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Strong-is-the-new-pretty-Pink_mockup_Front_Flat_White.png?v=1569767909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-strong-is-the-new-pretty-pink">(50 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - Strong is the New Pretty - Blk<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Purple / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Forest Green / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Purple / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Forest Green / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Purple / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Forest Green / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Purple / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Forest Green / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Purple / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Ladies (Fitted) / Forest Green / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Purple / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Forest Green / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Purple / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Forest Green / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Purple / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Forest Green / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Purple / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Forest Green / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Purple / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438695489618</id>
+      <title>Unisex (Classic) / Forest Green / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438680711250</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-strong-is-the-new-pretty"/>
+    <title>GYM - Strong is the New Pretty - Blk</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Strong-is-the-new-pretty-Blk_mockup_Front_Flat_Sport-Grey.png?v=1569767910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-strong-is-the-new-pretty">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - Strong is the New Pretty - Blk<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Ladies (Fitted) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438680711250</id>
+      <title>Unisex (Classic) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438664294482</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-run-love-pizza"/>
+    <title>GYM - Run Love Pizza</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/Run-Love-Pizza_mockup_Front_Flat_Light-Pink.png?v=1569767907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-run-love-pizza">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - Run Love Pizza<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>food</s:tag>
+    <s:tag>love</s:tag>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Deep Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Deep Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Deep Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Deep Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Ladies (Fitted) / Deep Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Deep Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Deep Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Deep Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Deep Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438664294482</id>
+      <title>Unisex (Classic) / Deep Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438634704978</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-no-squat-no-booty-wh"/>
+    <title>GYM - No Squat No Booty - Wh</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/No-Squat-No-Booty-WH_mockup_Front_Flat_Forest-Green.png?v=1569767905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-no-squat-no-booty-wh">(50 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - No Squat No Booty - Blk<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>work out</s:tag>
+    <s:tag>workout</s:tag>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Purple / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Red / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Forest Green / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Purple / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Red / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Forest Green / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Purple / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Red / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Forest Green / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Purple / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Red / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Forest Green / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Purple / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Red / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Ladies (Fitted) / Forest Green / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Purple / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Red / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Black / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Forest Green / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Purple / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Red / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Black / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Forest Green / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Purple / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Red / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Black / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Forest Green / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Purple / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Red / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Black / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Forest Green / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Purple / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Red / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Black / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438634704978</id>
+      <title>Unisex (Classic) / Forest Green / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.festivalprinting.ca/products/1438615535698</id>
+    <published>2018-07-15T12:22:07-04:00</published>
+    <updated>2018-07-15T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.festivalprinting.ca/products/gym-no-squat-no-booty-blk"/>
+    <title>GYM - No Squat No Booty - Blk</title>
+    <s:type></s:type>
+    <s:vendor>Festival Printing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2146/6179/products/No-Squat-No-Booty-Blk_mockup_Front_Flat_Sport-Grey.png?v=1569767904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festival Printing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99 - 18.49
+            <a href="https://www.festivalprinting.ca/products/gym-no-squat-no-booty-blk">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: GYM - No Squat No Booty - Blk<br>Design Colour: As Shown<br><br>Features: Ultra soft hand, side-seamed, tightly knit, superior printability.<br><br>Style Shown: Ladies Classic Premium T-Shirt<br><br>Comfort Fit made from 100% pre-shrunk cotton. Tubular Fabric. Thick rib collar with elastane, shoulder to shoulder tape. Soft-Washed.<br><br>If colour is unavailable in the Classic Premium Style, the order will be filled by GILDAN® Ultra Cotton®.<br><br>Select a design from our marketplace or design your own!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Ladies (Fitted) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / White / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / White / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / White / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / White / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / White / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Grey / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Grey / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Grey / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Grey / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Grey / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Pink / S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Pink / M</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Pink / L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Pink / XL</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.festivalprinting.ca/products/1438615535698</id>
+      <title>Unisex (Classic) / Light Pink / 2XL</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
